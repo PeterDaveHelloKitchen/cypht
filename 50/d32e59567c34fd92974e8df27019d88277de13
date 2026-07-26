@@ -1,0 +1,19 @@
+language/zh-TW.php
+  s_88d3ad26160745::t_10ebe1342168b2 35,42,73-81,106,108-109,112,220,232,353-354,371-372,381-382,384,430-432,439,446-447,450,490-491,494,506,511,527,535,537-538,557-558,591-592,603,612-613,644,665,669,680,684-810
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "50d32e59567c34fd92974e8df27019d88277de13",
+  "prompts": {},
+  "sessions": {
+    "s_88d3ad26160745": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9ed2-b4fd-79f1-afe1-2dbbc45b584b",
+        "model": "unknown"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
