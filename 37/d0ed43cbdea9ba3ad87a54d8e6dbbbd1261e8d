@@ -1,0 +1,21 @@
+language/zh-TW.php
+  s_7b5054154740e5::t_8a17aef313c6c5 783
+  s_7b5054154740e5::t_5fc37dcf470ae9 780-782
+  s_7b5054154740e5::t_808b63dcdd3bfd 784-786
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "37d0ed43cbdea9ba3ad87a54d8e6dbbbd1261e8d",
+  "prompts": {},
+  "sessions": {
+    "s_7b5054154740e5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0630e5930ffeR3vf9bdoCNFsSw",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
