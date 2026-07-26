@@ -1,0 +1,98 @@
+language/zh-Hans.php
+  s_47682bcc507cb1::t_c9496fa638c6de 224
+  s_47682bcc507cb1::t_bbf28bb66d93fd 453-455
+  s_47682bcc507cb1::t_069af1262a7c27 530
+  s_47682bcc507cb1::t_a731404b3115f3 433
+  s_47682bcc507cb1::t_609964281fd1cb 698-700
+  s_47682bcc507cb1::t_830f327cc196f4 556
+  s_47682bcc507cb1::t_cd7a3d6f0e9f1e 679-685
+  s_47682bcc507cb1::t_2ada3f2b26d935 248-249
+  s_47682bcc507cb1::t_b55cb73bd614d0 548
+  s_47682bcc507cb1::t_1cc5087a93c22d 217
+  s_47682bcc507cb1::t_e22f193b47bc66 456
+  s_47682bcc507cb1::t_b3dc21877dc0e3 471
+  s_47682bcc507cb1::t_d0af54fae53727 420
+  s_47682bcc507cb1::t_2de067937a84e1 423,426
+  s_47682bcc507cb1::t_a36c3fac6e906c 223
+  s_47682bcc507cb1::t_65523ef1246ada 298
+  s_47682bcc507cb1::t_dfcb65cfb9619e 153
+  s_47682bcc507cb1::t_019a08185e3dfe 546
+  s_47682bcc507cb1::t_1950a4f1e35c91 657-658
+  s_47682bcc507cb1::t_9adab3b0a8ab8b 144
+  s_47682bcc507cb1::t_0bcdd1310b0427 371-372
+  s_88d3ad26160745::t_28a7f3ffc8cdf6 521
+  s_47682bcc507cb1::t_05e5eeb10ec4e7 607-609
+  s_47682bcc507cb1::t_e6ada98856f8f3 566
+  s_47682bcc507cb1::t_3195a1b4888485 89
+  s_47682bcc507cb1::t_d5078f534161f0 444-445
+  s_47682bcc507cb1::t_34593cc80949a2 167-168
+  s_47682bcc507cb1::t_17e82db8711114 257
+  s_47682bcc507cb1::t_46fd60709e82d8 377
+  s_47682bcc507cb1::t_7b05803403ed48 382
+  s_47682bcc507cb1::t_0874994f382684 531
+  s_47682bcc507cb1::t_aa4abf03a9ad77 553
+  s_47682bcc507cb1::t_8c0ff29ee2c390 631
+  s_47682bcc507cb1::t_6413e6f097aa61 238
+  s_47682bcc507cb1::t_4bebb95e45930d 640
+  s_47682bcc507cb1::t_0b46c2d12ff061 491
+  s_47682bcc507cb1::t_db5029b0e70bd7 384
+  s_47682bcc507cb1::t_2197d7be73af64 565
+  s_47682bcc507cb1::t_49900e2cb73495 615
+  s_88d3ad26160745::t_2ec008d7c017e4 330
+  s_88d3ad26160745::t_70227644d5ed74 58,460-461,465-469,638,701-728,730-731,733-784,786-828
+  s_47682bcc507cb1::t_033bb021d2665d 628
+  s_47682bcc507cb1::t_550a3e26700350 595,597,599-603
+  s_47682bcc507cb1::t_8c81b404a79f8b 359-370
+  s_47682bcc507cb1::t_ec3bad2ca10ef6 583-584
+  s_47682bcc507cb1::t_4416e4f7f80866 686-689
+  s_47682bcc507cb1::t_c25e1b8978ae2a 529
+  s_47682bcc507cb1::t_af501b9be5ccd7 692-694
+  s_47682bcc507cb1::t_cec231149f1e81 538
+  s_47682bcc507cb1::t_600cfdde021759 555
+  s_47682bcc507cb1::t_724aa7a7a33ed0 436-437
+  s_88d3ad26160745::t_669f9dca416b56 124,126-127
+  s_47682bcc507cb1::t_a42f58570c2577 573
+  s_47682bcc507cb1::t_00443c2f58eb0a 652
+  s_88d3ad26160745::t_4318131eec86a1 239,729,732,785
+  s_47682bcc507cb1::t_d6fd189336d5e3 411-414
+  s_47682bcc507cb1::t_55362c0d64529d 244
+  s_47682bcc507cb1::t_ef024a3752ccb6 695-697
+  s_47682bcc507cb1::t_42876b9361d960 322
+  s_47682bcc507cb1::t_41d5d276f62ca1 561-562,690-691
+  s_47682bcc507cb1::t_ff826cafd74ac1 383
+  s_47682bcc507cb1::t_e229f8040ec2cd 102
+  s_47682bcc507cb1::t_c79a728800ce43 130
+  s_47682bcc507cb1::t_5c87ef6b27da3e 240
+  s_47682bcc507cb1::t_733b735bb70100 668
+  s_47682bcc507cb1::t_b83b71a9479a3e 376
+  s_47682bcc507cb1::t_388aee7e35669a 39
+  s_47682bcc507cb1::t_f9d2b9a2c16555 536
+  s_47682bcc507cb1::t_2ca9837934f8e3 653
+  s_47682bcc507cb1::t_e3598827fa6c69 149
+  s_47682bcc507cb1::t_7930ee5dae8476 478-480
+  s_47682bcc507cb1::t_138c59ee637a50 539
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "afe2b62e288f546178381fe9f93b513ecc2c0884",
+  "prompts": {},
+  "sessions": {
+    "s_47682bcc507cb1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0630e6655ffeETa0cdZr3rWlbr",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    },
+    "s_88d3ad26160745": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9ed2-b4fd-79f1-afe1-2dbbc45b584b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
