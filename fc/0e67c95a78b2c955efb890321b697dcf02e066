@@ -1,0 +1,43 @@
+language/zh-TW.php
+  s_2e6aaba964ffc8::t_451995f92dc2d7 494
+  s_2e6aaba964ffc8::t_172cf8a5c47511 80,106,108-109,603,665,693,707-708,712,746,748-749,751,761-763,776,783,785,810
+  s_3038e8b886e0dc::t_b0164aa9bfb322 42,73-79,81,220,232,353-354,371-372,381-382,384,430-432,439,446-447,450,490-491,506,511,527,535,537-538,591-592,612-613,644,669,680,684-692,694-704,706,709-711,713-745,747,750,752-754,756-760,764-765,767-775,777-782,784,792-809
+  s_2e6aaba964ffc8::t_7b4be0d90d561c 112,557-558,705,766
+  s_7b5054154740e5::t_5fc37dcf470ae9 786-787
+  s_2e6aaba964ffc8::t_6c452045463226 755
+  s_7b5054154740e5::t_8a17aef313c6c5 788
+  s_7b5054154740e5::t_808b63dcdd3bfd 789-791
+  s_7b5054154740e5::t_5c1bbd3c747ddc 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "fc0e67c95a78b2c955efb890321b697dcf02e066",
+  "prompts": {},
+  "sessions": {
+    "s_2e6aaba964ffc8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9eeb-d026-7830-809d-1cfe43c2b94a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    },
+    "s_3038e8b886e0dc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9ad5-8d19-7d11-a4ca-ef1f15ef0116",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    },
+    "s_7b5054154740e5": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0630e5930ffeR3vf9bdoCNFsSw",
+        "model": "deepseek-v4-flash-free"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
